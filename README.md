@@ -1,4 +1,4 @@
-📅|Bom, esse é um plugin aonde você pode está vendo o calaendario;
+📅|Plugin aonde pode mostra o calendario é receber presentes!
 
 📦|Logo a cima tem a [SRC]
 
