@@ -1,7 +1,6 @@
-📅 Bom, esse é um plugin aonde você pode está vendo o calaendario;
+📅|Bom, esse é um plugin aonde você pode está vendo o calaendario;
 
-📦 logo a cima tem a [SRC];
+📦|Logo a cima tem a [SRC]
 
+📞|Qualquer tipo de dúvida chama discord:
 
-
-📞 qualquer tipo de dúvida chama discord: 
