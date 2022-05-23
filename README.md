@@ -1,2 +1,3 @@
-Bom, fiz um plugin aonde você pode ver o calendario dentro do minecraft!
-logo abaixo até a [SRC]
+📅 Bom, esse é um plugin aonde você pode está vendo o calaendario;
+📦 logo a cima tem a [SRC];
+📞 qualquer tipo de dúvida chama discord: 
