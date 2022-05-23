@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Calendario">
+    <output-path>$PROJECT_DIR$/../../Servidores de teste/Teste de Plugin/plugins</output-path>
+    <root id="archive" name="Calendario.jar">
+      <element id="module-output" name="Eventos" />
+    </root>
+  </artifact>
+</component>
