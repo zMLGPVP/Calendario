@@ -2,5 +2,5 @@
 
 📦|Logo a cima tem a [SRC]
 
-📞|Qualquer tipo de dúvida chama discord:!zMLGPVP#0830
+(primeiro plugin)
 
